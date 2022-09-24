@@ -1,0 +1,31 @@
+- Optimize state by coroutines
+
+- Improve Camera Follow to Bring nearby Enemies in view -- done for 1, not for the nearest
+
+- Make Sprites etc.
+
+- Sounds
+
+- Menu
+
+============================
+TO IMPROVE:
+============================
+- Improve player movement so he takes right angle turns
+
+- Player Navigation Path Line (Curves)
+
+- Make Enemies Patrol smoother with stops, turning around etc.
+
+=============================
+MORE:
+=============================
+
+- Set up Multiple Enemies:
+
+	3 Enemy Types:
+		Simple
+		Shotgun
+		Blocker
+
+- Alternate Players with long range ninja kills
